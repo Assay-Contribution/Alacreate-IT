@@ -179,6 +179,12 @@ h1 {
   margin-bottom: 2rem;
 }
 
+.hero-image {
+  width: 100%;
+  margin-top: 2.5rem;
+  border-radius: var(--radius);
+}
+
 /* Offer card */
 .card {
   background: var(--tint);
